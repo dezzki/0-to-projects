@@ -1,4 +1,3 @@
-![[Pasted image 20260616144615.png]]
 
 ---
 # 0-to-Projects
@@ -24,6 +23,8 @@ Projects are divided into three tiers based on the knowledge and experience requ
 🟢 Beginner
 🟡 Intermediate
 🔴 Advanced
+
+Helping students decide what to do next.
 
 ---
 
