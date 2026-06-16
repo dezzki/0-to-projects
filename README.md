@@ -13,7 +13,7 @@ The goal of this repository is simple:
 - Encourage learning by building.
 
 This repository is for anyone starting projects and getting familiar with the workflow.
-To help this list tune in with [[How to Contribute]].
+See the [Contribution Guidelines](How%20to%20Contribute.md) if you'd like to add projects or resources.
 
 
 ## Projects
