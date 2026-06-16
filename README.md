@@ -27,7 +27,6 @@ Projects are divided into three tiers based on the knowledge and experience requ
 Helping students decide what to do next.
 
 ---
-
 ### Web Dev
 
 | Link                                                                                                                                        | Description                        | TechStack             | Difficulty |
@@ -39,15 +38,22 @@ Helping students decide what to do next.
 | [Loading Screen](https://www.freecodecamp.org/news/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f)                      | A simple Loading Screen            | Javascript            | 🟢         |
 | [Snake Game](https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/) | A snake game on browser            | HTML, CSS             | 🟢         |
 
-
+---
 ### Python
-
 
 | **Link**                                                                                      | **Description**                      | **TechStack**      | Difficulty |
 | --------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------ | ---------- |
 | [PDF Audio](https://www.youtube.com/watch?v=Flm2YHEFd5A)                                      | Convert a PDF to audio               | Python             | 🟢         |
 | [Face Recognition](https://www.youtube.com/watch?v=sz25xxF_AVE)                               | Face Recognition + Attendance System | OpenCV             | 🟡         |
 | [File Organisation](https://www.youtube.com/playlist?list=PLPhE4fjrl6dlsHysF_FYmq8iFNZZ8EPVi) | File Organisation                    | Python, os, shutil | 🟢         |
+
+---
+### DSA
+
+
+| Link                                                                                                                        | Description                                  |
+| --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| [500 Questions](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions) | This a 500 question list I am starting with. |
 
 ---
 ## A Small Note
