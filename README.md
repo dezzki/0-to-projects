@@ -37,6 +37,7 @@ Helping students decide what to do next.
 | [Todo List](https://github.com/dwyl/javascript-todo-list-tutorial)                                                                          | A simple Todo List                 | Javascript            | 🟢         |
 | [Loading Screen](https://www.freecodecamp.org/news/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f)                      | A simple Loading Screen            | Javascript            | 🟢         |
 | [Snake Game](https://www.freecodecamp.org/news/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e/) | A snake game on browser            | HTML, CSS             | 🟢         |
+| [Rock Paper Scissors](https://www.youtube.com/watch?v=n1_vHArDBRA/) | Rock, paper, scissors game on browser            | Javascript             | 🟢         |
 
 ---
 ### Python
