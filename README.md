@@ -57,7 +57,25 @@ Helping students decide what to do next.
 | [500 Questions](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions) | This a 500 question list I am starting with. |
 
 ---
-## A Small Note
+
+### SQL - Learning by Games
+
+
+| **Link**                                               | Description                                                | Recommendation |
+| ------------------------------------------------------ | ---------------------------------------------------------- | -------------- |
+| [SQL Noir](https://www.sqlnoir.com/)                   | Solve mysteries through SQL.                               | ⭐⭐⭐⭐           |
+| [SQL Island](https://sql-island.informatik.uni-kl.de/) | You will be stuck on SQL Island for the time being.        | ⭐⭐⭐⭐           |
+| [SQL Murder Mystery](https://mystery.knightlab.com/)   | SQL Murder Mystery - The Classic Detective Challenge       | ⭐⭐⭐            |
+| [SQLPD](https://sqlpd.com/)                            | SQL Police Department (SQLPD) - Premium Detective Training | ⭐⭐             |
+
+
+| Resource                                        | Description                       |
+| ----------------------------------------------- | --------------------------------- |
+| [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) | Tutorials: Learn SQL step by step |
+
+---
+
+## A Small Note ⭐
 
 I created this repository because I often found myself asking, "What should I build next?"
 
