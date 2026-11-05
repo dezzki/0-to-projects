@@ -59,6 +59,7 @@ Projects are divided into three tiers based on the knowledge and experience requ
 
 | Link | Description | Recommendation | Difficulty |
 | ---- | ----------- | -------------- | ---------- |
+| [City at Low Tide](https://sqlbrief.com/en/stories/city-at-low-tide) | Use SQL to read a flooded town’s records and choose a rescue route in a browser story. | — | 🟢 |
 | [SQL Noir](https://www.sqlnoir.com/) | Solve mysteries through SQL. | ⭐⭐⭐⭐ | 🟢 |
 | [SQL Island](https://sql-island.informatik.uni-kl.de/) | You will be stuck on SQL Island for the time being. | ⭐⭐⭐⭐ | 🟢 |
 | [SQL Murder Mystery](https://mystery.knightlab.com/) | SQL Murder Mystery - The Classic Detective Challenge | ⭐⭐⭐ | 🟡 |
